@@ -89,37 +89,7 @@ To assess the performance of the models in predicting drug use from the risk fac
 
 ## File structure and list of key files <a name="list_of_key_files"></a>
 
-* **01_Exploratory_Analysis_Modules**
-    * 01a_EDA_Descriptives_and_Visualizations_20230510.ipynb        <span style="color: blue;">#descriptive statistics and visualizations - notebook</span>
-    * 01b_EDA_Correlations_and_Initial_Models_20230511.ipynb                   #correlations and preliminary models - notebook
-
-* **02_Data_Pre-Processing_and_Initial_Models**
-    * 02a_Data_Preprocessing_and_Addtional_Data_Exploration_20230512.ipynb     #data pre-processing and clean script with additional EDA
-    * 02b_Data_Preprocessing_and_Initial_Models_Full_Run_20230513.ipynb        #creating initial model scipts using Stimulants outcome to prototype
-    * 02c_Testing_rebalanced_models_and_binarize_20230514.ipynb                #testing re-balanced models and a OneVsRest/Binarized approach
-    * 02d_Developing_Model_Optimization_Testing_20230515.ipynb                 #developing the paramater grid for GridSearchCV
-
-* **03_Modelling_Cross_Validation_Optimization_Stimulants**
-    * 03a_End_to_End_ML_Modelling_for_Stimulants_20230516.ipynb                #End-to-end pipeline script to predict Stimulants usage with ML models
-    * 03b_Hyperparameter_Optimization_for_Stimulants_Models_20230517.ipynb     #GridSerachCV for the best parameters for ML models used to predict Stimulants usage
-
-* **04_Modelling_Cross_Validation_Optimization_Depressants**
-    * 04a_End_to_End_ML_Modelling_for_Depressants_20230518.ipynb               #End-to-end pipeline script to predict Depressants usage with ML models
-    * 04b_Hyperparameter_Optimization_for_Depressants_Models_20230519.ipynb    #GridSerachCV for the best parameters for ML models used to predict Depressants usage
-
-* **05_Modelling_Cross_Validation_Optimization_Hallucinogens**
-    * 05a_End_to_End_ML_Modelling_for_Hallucinogens_20230520.ipynb             #End-to-end pipeline script to predict Hallucinogens usage with ML models
-    * 05b_Hyperparameter_Optimization_for_Hallucinogens_Models_20230521.ipynb  #GridSerachCV for the best parameters for ML models used to predict Hallucinogens usage
-
-* **visuals**
-	* data_description_1.png     #descriptive statistics for independent variables
-	* data_description_2.png     #output classes for all drug outcome variables
-	* data_description_3.png  	 #distribution of values for outcome features 	
-	* methodology_20230530.png   #methodology diagram
-
-
-* drug_consumption_cap_20230505.csv #input dataset - drug use along with personality traits and socio-demographic variables
-* **README.md**
+![File_structure](https://github.com/as2leung/predicting_drug_use_from_personality_traits_using_ML/blob/master/visuals/file_structure_20230601.PNG)
 
 ## Python_Libraries
 
