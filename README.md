@@ -89,7 +89,7 @@ To assess the performance of the models in predicting drug use from the risk fac
 
 ## File structure and list of key files <a name="list_of_key_files"></a>
 
-![File_structure](https://github.com/as2leung/predicting_drug_use_from_personality_traits_using_ML/blob/master/visuals/file_structure_20230601.PNG)
+![File_structure](https://github.com/as2leung/predicting_drug_use_from_personality_traits_using_ML/blob/master/visuals/file_structure_lq.PNG)
 
 ## Python_Libraries
 
