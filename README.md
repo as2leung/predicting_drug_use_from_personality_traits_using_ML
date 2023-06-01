@@ -8,7 +8,7 @@ _EXAMINING HEALTH OUTCOMES USING MACHINE LEARNGING_
 * [Project Summary](#project_summary)
 * [List of key files](#list_of_key_files)
 * [Python Libraries](#python_libraries)
-* [Data Description](#data-descrption)
+* [Data Description](#data_description)
 * [Methodology](#methodology)
 * [Results](#results)
 * [Conclusion](#conclusion)
@@ -90,7 +90,7 @@ To assess the performance of the models in predicting drug use from the risk fac
 ## File structure and list of key files <a name="list_of_key_files"></a>
 
 * **01_Exploratory_Analysis_Modules**
-    * 01a_EDA_Descriptives_and_Visualizations_20230510.ipynb                   #descriptive statistics and visualizations - notebook
+    * 01a_EDA_Descriptives_and_Visualizations_20230510.ipynb        <span style="color: blue;">#descriptive statistics and visualizations - notebook</span>
     * 01b_EDA_Correlations_and_Initial_Models_20230511.ipynb                   #correlations and preliminary models - notebook
 
 * **02_Data_Pre-Processing_and_Initial_Models**
@@ -136,7 +136,7 @@ To assess the performance of the models in predicting drug use from the risk fac
 * matplotlib
 * statsmodels
 
-## Data Description
+## Data Description <a name="data_description"></a>
 
 The dataset for the study was obtained from the from the open source repository - UCI Machine Learning Repository. See the following link: 
 
